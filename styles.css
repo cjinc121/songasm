@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+button {
+  padding: 0.5rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  border-style: none;
+  background-color: greenyellow;
+}
+.card {
+  display: inline;
+  background-color: #b1e693;
+  width: 40%;
+  display: block;
+  margin: 5px auto;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+.card-pro {
+  padding: 1rem;
+  background-color: greenyellow;
+  width: 30%;
+  margin: 10px auto;
+  border-radius: 1rem;
+}
+hr {
+  width: 50%;
+}
+body {
+  background-color: black;
+  color: black;
+}
